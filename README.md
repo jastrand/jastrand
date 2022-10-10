@@ -1,3 +1,3 @@
 ## Hello there 👋
 
-- 🚀 What I do: `React`, `Nextjs`, `Styled-components`, `Typescript`
+🚀 What I do: `React`, `Nextjs`, `Styled-components`, `Typescript`
