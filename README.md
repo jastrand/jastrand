@@ -9,7 +9,3 @@
                                                                           
      
 # Hello there 👋
-
-🚀 What I do: `Javascript`, `React`, `Nextjs`, `Typescript`, `CSS`
-
-📧 Contact: johannakastrand@gmail.com
